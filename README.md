@@ -1,2 +1,2 @@
 # kosaAgent
-AI Agent
+AI Agent 생성
